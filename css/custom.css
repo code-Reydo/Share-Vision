@@ -1,0 +1,111 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-default{
+    background-color: white;
+}
+.jumbotron{
+    background-color: transparent;
+}
+.row{
+    padding: 20px;
+}
+.about{
+        
+}
+.work{
+        padding-top: 90px;
+        padding-bottom: 50px;
+
+}
+.side{
+    background-color: blue;
+}
+.partner{
+        padding-top: 90px;
+        padding-bottom: 50px;
+
+
+}
+.team{
+        padding-top: 90px;
+        padding-bottom: 50px;
+
+
+}
+.team-text{
+    text-align: center;
+    font-family: "Baskerville", "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.card-body{
+    background-color: gold;
+    padding-top: 3rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+    border-bottom-left-radius: 40px;
+}
+.contact{
+    padding-top: 90px;
+    padding-bottom: 50px;
+    background-color: skyblue;
+}
+.small-box small {
+       font-size: 18px;
+        margin: 5px 0;
+        margin-top: 5px;
+        margin-right: 0px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+        display: block;
+        color: blue;
+}
+    
+
+.C-address{
+    align-content: center;
+}
+.foot{
+    background-image: url();
+    padding-top: 90px;
+    background-color: gold;
+
+}
+nav ul{
+    list-style: none;
+    color: white;
+}
+ul{
+    list-style: none;
+    display: inline;
+    
+}
+}
+.course-box1{
+    background-color: white;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-style: hidden;
+    border-color: white;
+}
+.course-box2{
+    background-color: white;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-style: hidden;
+    border-color: white;
+
+}
+.course-box3{
+    background-color: white;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-style: hidden;
+    border-color: white;
+
+}
+.copy{
+
+    padding-top: 50px ;
+}

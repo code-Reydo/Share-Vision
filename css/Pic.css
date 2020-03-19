@@ -1,0 +1,38 @@
+/* CSS Document */
+.pic{
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 50px;
+}
+.Pic1{
+    position: absolute;
+    top: 20px; left: 30px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.Pic2{
+    position: relative;
+    top: 10px; left: 0px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.Pic3{
+    position: relative;
+    top: 0px; left: 0px;
+    border-bottom-right-radius: 50px;
+}
+.team-image1{
+    border-top-right-radius: 50px;
+    height: 250px;
+    width: 350px;
+    border-color: white;
+}
+.team-image2{
+    border-top-right-radius: 50px;
+    height: 250px;
+    width: 350px;
+}
+.team-image3{
+    border-top-left-radius: 50px;
+    height: 250px;
+    width: 350px;
+}
